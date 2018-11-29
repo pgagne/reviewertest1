@@ -4,7 +4,9 @@ def build_the_world(start):
     #... populate end
     #TODO write me
     return end
-    
+
+def my_new_func1(a)
+    return a
  
     
     
